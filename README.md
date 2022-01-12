@@ -1,2 +1,4 @@
 # ReactDragDrop-JSFiddle
-Code for ReactDragDrop on JSFiddle (see ReadMe for link)
+Code for ReactDragDrop on JSFiddle
+
+Link: https://jsfiddle.net/Hypodactylus/ghscxdaz/6/
